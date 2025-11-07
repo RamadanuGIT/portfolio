@@ -17,7 +17,7 @@ const Projects = () => {
       desc: "A simple coffe shop app built with React and Node.js.",
       tech: "React, Express, MongoDB",
       image: "/coffeshop.png",
-      demo: "https://your-todo-demo-link.com",
+      demo: "https://coffe-shop-alpha-liart.vercel.app/",
       code: "https://github.com/RamadanuGIT/coffe-shop.git",
     },
     {
